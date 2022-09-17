@@ -1,4 +1,6 @@
-﻿using System.Runtime.Serialization;
+﻿// Copyright (c) 2022 Tobias Streng, MIT license
+
+using System.Runtime.Serialization;
 
 namespace ResultType.Extensions;
 
